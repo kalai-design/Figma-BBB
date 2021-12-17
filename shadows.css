@@ -1,0 +1,13 @@
+
+:root {
+    --shadowRdoElevation100: 0px 0px  1px   0px    #091e424f;    
+    --shadowRdoElevation1002: 0px 1px  1px   0px    #091e4240;    
+    --shadowRdoElevation200: 0px 0px  1px   0px    #091e424f;    
+    --shadowRdoElevation2002: 0px 3px  5px   0px    #091e4233;    
+    --shadowRdoElevation300: 0px 0px  1px   0px    #091e424f;    
+    --shadowRdoElevation3002: 0px 8px  12px   0px    #091e4226;    
+    --shadowRdoElevation400: 0px 0px  1px   0px    #091e424f;    
+    --shadowRdoElevation4002: 0px 10px  18px   0px    #091e4226;    
+    --shadowRdoElevation500: 0px 0px  1px   0px    #091e424f;    
+    --shadowRdoElevation5002: 0px 18px  28px   0px    #091e4226;    
+}
