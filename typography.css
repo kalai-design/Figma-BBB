@@ -1,0 +1,350 @@
+.typographyListListL 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 27px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyListListM 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyLinkLinkS 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyLinkLinkL 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyLinkLinkM 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyButtonButtonL 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 21px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyButtonButtonS 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyButtonButtonM 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyContentBodyLMedium 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 22px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyContentBodyLBold 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23.399999618530273px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyContentBodyMRegular 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyContentBodyMMedium 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyContentBodyMBold 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 24px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyContentBodySRegular 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 22px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyContentBodySMedium 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 20px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyContentBodySBold 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 21px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyContentBodyXsRegular 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyContentBodyXsMedum 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 8px;
+  line-height: 18px;
+  letter-spacing:  
+  0em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingsHeading1 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 46px;
+  line-height: 60px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingsHeading2 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 52px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingsHeading3 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 47px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingsHeading4 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 42px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingsHeading5 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 36px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeadingsHeading6 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 31px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+
+.typographyHeading6Medium 
+ {
+  
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 31px;
+  letter-spacing:  
+  -0.02em;
+  text-indent: 0px;
+  
+}    
+

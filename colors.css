@@ -1,0 +1,35 @@
+
+:root {
+    --colorRdoBlack: #333333;    
+    --colorRdoSecondary: #4d4f53;    
+    --colorRdoPrimary: #fed100;    
+    --colorRdoWhite: #ffffff;    
+    --colorRdoOverlay: #5a5a5a4d;    
+    --colorRdoGrayGray800: #8c8c8c;    
+    --colorRdoGrayGray700: #d1d1d1;    
+    --colorRdoGrayGray600: #dddddd;    
+    --colorRdoGrayGray500: #e8e8e8;    
+    --colorRdoGrayGray400: #f3f3f3;    
+    --colorRdoGrayGray300: #f9f9f9;    
+    --colorRdoSystemError: #eb5757;    
+    --colorRdoSystemWarning: #f2c94c;    
+    --colorRdoSystemWarning02: #f2994a;    
+    --colorRdoSystemSuccess: #6fcf97;    
+    --colorRdoSystemRed: #eb5757;    
+    --colorRdoLightDyl30: #fff1b3;    
+    --colorRdoLightDyl50: #ffe880;    
+    --colorRdoLightDyl70: #fedf4d;    
+    --colorRdoLightDyl90: #fed61a;    
+    --colorRdoLightDy10: #fffae6;    
+    --colorRdoDarkDyd40: #987d00;    
+    --colorRdoDarkDyd10: #e5bc00;    
+    --colorRdoDarkDyd20: #cba700;    
+    --colorRdoDarkDyd30: #b29200;    
+    --colorRdoDarkDyd50: #7f6900;    
+    --colorRdoSystemLink: #2d9cdb;    
+    --colorSuccessBg: #e8f6ef;    
+    --colorSucessBgDark: #27ae60;    
+    --colorBlueBgLight: #edf6f9;    
+    /*  bg light */
+    --colorNormalBgLight: #dbd6ff;    
+}
